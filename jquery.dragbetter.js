@@ -39,7 +39,6 @@
 
       $self.on('drop.dragbetterenter dragend.dragbetterenter', function () {
         self.dragbetterCollection = [];
-        $self.triggerHandler('dragbetterleave');
       });
     },
 
