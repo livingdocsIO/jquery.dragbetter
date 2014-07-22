@@ -1,5 +1,13 @@
 # jquery.dragbetter Changelog
 
+## v0.1.3
+
+**2014-07-22**
+
+* Do not fire dragleave on drop
+* Remvoe all event handlers
+* Clean up after dragend
+
 
 ## v0.1.2
 
