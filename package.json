@@ -1,5 +1,5 @@
 {
-  "name": "jquery.dragbetter",
+  "name": "@livingdocs/jquery.dragbetter",
   "version": "0.1.4",
   "main": "jquery.dragbetter.js",
   "repository": {
