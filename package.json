@@ -4,10 +4,10 @@
   "main": "jquery.dragbetter.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/upfrontIO/jquery.dragbetter.git"
+    "url": "git+https://github.com/livingdocsIO/jquery.dragbetter.git"
   },
   "bugs": {
-    "url": "https://github.com/upfrontIO/jquery.dragbetter/issues"
+    "url": "https://github.com/livingdocsIO/jquery.dragbetter/issues"
   },
-  "homepage": "https://github.com/upfrontIO/jquery.dragbetter#readme"
+  "homepage": "https://github.com/livingdocsIO/jquery.dragbetter#readme"
 }
